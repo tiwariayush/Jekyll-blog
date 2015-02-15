@@ -1,0 +1,25 @@
+title:            Ayush Tiwari
+description:      a Jharkhandi
+url:              # Site url.
+signoff:          Ayush
+disqus_shortname: tiwariayush # disqus comment thread for post header options. ( leave blank if unwanted. )
+facebook_appid:   # appid for like button, remove from /_includes/share.html if unwanted.
+google_analytics: # set tracking, remove from /javascripts/basic.js if unwanted.
+
+links:
+  - name:         About
+    url:          /
+  - name:         Blog
+    url:          /archive
+  - name:         Email
+    url:          mailto:tiwari.ayush2412@gmail.com
+    external:     true
+  - name:         GitHub
+    url:          http://github.com/tiwariayush
+    external:     true
+highlighter:      pygments
+permalink:        pretty
+markdown:         redcarpet
+redcarpet:
+  extensions:
+    - smart
